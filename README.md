@@ -35,37 +35,7 @@ Build a responsive frontend dashboard using React.js with API integration.
 
 
    Open http://localhost:3000
- in your browser.
-
-
- Dependencies
-
-React.js
-
-React Router DOM
-
-Axios / Fetch API
-
-Context API or Redux Toolkit
-
-TailwindCSS / CSS Modules
-
-Chart.js / Recharts (for data visualization)
-
-Assignment 2: Reusable Components Library
-
-Components Created
-
-Button – Customizable with props for color, size, and click events.
-
-Modal – Reusable popup modal with dynamic content.
-
-Form Input – Input fields with validation and error messages.
-
-Table / Data Grid – Displays API data dynamically with headers and rows.
-
  
-
 
 
 
