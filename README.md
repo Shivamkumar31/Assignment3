@@ -37,9 +37,19 @@ Build a responsive frontend dashboard using React.js with API integration.
 
 
    Open http://localhost:3000
-   dependecy
-   react js
-   tailwand css
+   ependencies
+
+React.js
+
+React Router DOM
+
+Axios / Fetch API
+
+Context API or Redux Toolkit
+
+TailwindCSS / CSS Modules
+
+Chart.js / Recharts (for data visualization)
    
  
 
