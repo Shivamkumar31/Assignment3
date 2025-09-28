@@ -19,6 +19,8 @@ Build a responsive frontend dashboard using React.js with API integration.
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/a3fa085b-d33c-4557-80ca-53f2f79eef83" />
 <img width="1909" height="906" alt="image" src="https://github.com/user-attachments/assets/0845cc58-888b-4b2d-8e89-daf24e44b2cc" />
 <img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/aaf5d969-5de7-41bc-aa7e-e4132bf70e24" />
+<img width="1872" height="686" alt="image" src="https://github.com/user-attachments/assets/77f876e5-f851-4028-81e1-9ad2995cc078" />
+
 
 
 
@@ -35,6 +37,10 @@ Build a responsive frontend dashboard using React.js with API integration.
 
 
    Open http://localhost:3000
+   dependecy
+   react js
+   tailwand css
+   
  
 
 
